@@ -58,5 +58,6 @@
             if (IsSqlServer) return "SQL Server";
             return "No definido";
         }
+        //ana 
     }
 }
